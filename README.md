@@ -4,7 +4,7 @@
 Ce projet permet de gérer une bibliothèque via une interface console.
 
 ## 🛠️ Instructions d'installation
-1. Cloner le dépôt : `git clone https://github.com/username/GestionBibliotheque.git`
+1. Cloner le dépôt : `git clone https://github.com/sinox2003/GestionBibliotheque.git`
 2. Naviguer dans le dossier : `cd GestionBibliotheque`
 3. Lancer la compilation : `mvn clean package`
 4. Exécuter l'application : `java -jar target/GestionBibliotheque-1.0-SNAPSHOT.jar`
